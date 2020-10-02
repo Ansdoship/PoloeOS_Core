@@ -1,0 +1,9 @@
+anim/
+log/
+fonts/
+*.js
+!Home.js
+!Boot.js
+!Test.js
+!poloeos.js
+*.png
